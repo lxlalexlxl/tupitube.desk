@@ -6488,7 +6488,7 @@
     <message>
         <location filename="../../../libtupi/tupprojectactionbar.cpp" line="89"/>
         <source>Insert frame</source>
-        <translation>Вставити кадр</translation>
+        <translation>Додати кадр</translation>
     </message>
     <message>
         <location filename="../../../libtupi/tupprojectactionbar.cpp" line="99"/>
