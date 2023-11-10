@@ -1697,7 +1697,7 @@
     <message>
         <location filename="../../../plugins/tools/selection/selectionsettings.cpp" line="451"/>
         <source>Paste objects over mouse position</source>
-        <translation>Вставляти об&apos;єкти на місце вказівника миші</translation>
+        <translation>Вставляти об&apos;єкти на місце вказівника</translation>
     </message>
     <message>
         <location filename="../../../plugins/tools/selection/selectionsettings.cpp" line="82"/>
@@ -8028,5 +8028,4 @@ Cover</source>
         <translation>Shift+H</translation>
     </message>
 </context>
-</TS>
-            
+</TS>            
